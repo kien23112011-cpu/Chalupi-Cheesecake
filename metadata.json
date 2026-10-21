@@ -1,0 +1,6 @@
+{
+  "name": "Chalupi Cheesecake",
+  "description": "Artisanal handcrafted cheesecakes with the best bake — Basque, New York, and signature seasonal creations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
